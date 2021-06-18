@@ -5,3 +5,4 @@ a
 b
 c <- a+b
 ddd<-c
+aaa<- 3+5
